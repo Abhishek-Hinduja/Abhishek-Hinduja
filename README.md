@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Hinduja</h1>
 🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning MySQL<br>👯 I’m looking to collaborate on ReactwebRTC project<br>📫 How to reach me: hindujaabhishek5@gmail.com<br>⚡ Fun fact: I read and like listening to music!</br>
 
-<img id="visitors" src="https://visitcount.itsvg.in/api/test?icon=5&amp;color=3" alt="" class="md:ml-36 mb-4">
+<img src="https://visitcount.itsvg.in/api?id=Abhishek-Hinduja&color=3" alt="Abhishek-Hinduja">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishekhinduja2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-hinduja-48ba051b7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/AbhishekHinduj2) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Abhishek-Hinduja) 
