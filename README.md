@@ -19,6 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-Hinduja&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek-Hinduja&icon=5&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
