@@ -1,9 +1,6 @@
-### Hi there 👋
+<h1> Hello Fellow < Developers/ >! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">  </h1>
 
-
-**Abhishek-Hinduja/Abhishek-Hinduja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ I'm Abhishek hinduja, a Final Year Student curently pursuing my Bachelor's in Technology. I like learning, developing!
 
 - 🔭 I’m currently working on MERN Projects
 - 🌱 I’m currently learning MySQL
