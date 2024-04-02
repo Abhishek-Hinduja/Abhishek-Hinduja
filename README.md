@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Hinduja</h1>
-🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning MySQL<br>👯 I’m looking to collaborate on ReactwebRTC project<br>📫 How to reach me: hindujaabhishek5@gmail.com<br>⚡ Fun fact: I read and like listening to music!</br>
+🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning MySQL<br>👯 I’m looking to collaborate on ReactwebRTC project<br>📫 How to reach me: hindujaabhishek5@gmail.com<br>⚡ Fun fact: I read and like listening to music!</br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Hinduja&label=Profile%20views&color=0e75b6&style=flat&colour=3" alt="Abhishek-Hinduja" /> </p>
 
 ## 🌐 Socials:
